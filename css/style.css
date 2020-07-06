@@ -1,0 +1,36 @@
+header{
+    padding: 30px 0;
+}
+.container{
+    padding: 0 40px;
+}
+.margin-b{
+    margin-bottom: 50px;
+}
+
+nav{
+    padding: 10px;
+}
+.carousel-indicators li {
+    background-image: linear-gradient(to left,orange,gold);
+    padding: 3px;
+    border-radius: 8px;
+}
+.slider h1, .card-body h5,h1 {
+    font-weight: 600;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 12px lightgray;
+}
+.cat1, .cat2, .cat3 {
+    padding: 10px;
+    box-shadow: 5px 5px 20px #cacaca;
+    text-align: center;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    width: 200px;
+}
+.cat-img{
+    padding: 70px 0;
+}
